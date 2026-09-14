@@ -1,4 +1,4 @@
-# 🎧 Spotify Reimagined
+# 🎧 Spotify Login Page
 
 > A modern, cinematic concept redesign of a music-streaming login experience — built from scratch with HTML, CSS and JavaScript.
 
