@@ -4,7 +4,7 @@
 
 ## ✨ Live Preview
 
-**Live Demo:** `https://YOUR-USERNAME.github.io/spotify-reimagined-login/`
+**Live Demo:** `https://humblelly.github.io/spotify-reimagined-login/`
 
 > Replace `YOUR-USERNAME` with your GitHub username after enabling GitHub Pages.
 
