@@ -6,7 +6,7 @@
 
 **Live Demo:** `https://humblelly.github.io/spotify-reimagined-login/`
 
-> Replace `YOUR-USERNAME` with your GitHub username after enabling GitHub Pages.
+
 
 ## 🖥️ Preview
 
