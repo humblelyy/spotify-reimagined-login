@@ -1,10 +1,10 @@
-# 🎧 Spotify Login Page
+# 🎧 Spotify Reimagined
 
 > A modern, cinematic concept redesign of a music-streaming login experience — built from scratch with HTML, CSS and JavaScript.
 
 ## ✨ Live Preview
 
-**Live Demo:** https://humblelyy.github.io/spotify-reimagined-login/
+**Live Demo:** https://humbelly.github.io/spotify-reimagined-login/
 
 ## 🖥️ Preview
 
@@ -25,19 +25,16 @@
 - ✨ Ambient green lighting and glow
 - 🔐 Password show/hide interaction
 - 🔔 Animated toast notifications
-- 🇬 Google and Apple sign-in UI
 - 📱 Responsive desktop, tablet and mobile layouts
 - ♿ Reduced-motion support
 
 ## 🛠️ Built With
 
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-- CSS 3D transforms
-- CSS animations
-- CSS gradients
-- Backdrop filters
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
 ## 📂 Project Structure
 
@@ -57,13 +54,6 @@ cd spotify-reimagined-login
 
 Then open `index.html` in your browser.
 
-## 🌐 Deploy With GitHub Pages
-
-Go to **Settings → Pages → Deploy from a branch**, select **main** and **/(root)**, then save.
-
-Your site will be available at:
-
-https://humbelly.github.io/spotify-reimagined-login/
 
 ## 🎯 Design Direction
 
@@ -83,4 +73,12 @@ Do not use this demo to collect real Spotify usernames, passwords, or authentica
 
 ---
 
-### Made with HTML, CSS & JavaScript ✦
+### Made with
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+**Made with HTML, CSS & JavaScript ✦**
