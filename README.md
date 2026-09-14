@@ -13,7 +13,7 @@
 _Add a screenshot of the project here:_
 
 ```md
-![Spotify Reimagined Preview](./preview.png)
+preview.png
 ```
 
 ## 🚀 Features
