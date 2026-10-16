@@ -4,7 +4,7 @@
 
 ## ✨ Live Preview
 
-**Live Demo:** https://humblelyy.github.io/spotify-reimagined-login/
+**Live Demo:** [Click Me](https://humblelyy.github.io/spotify-reimagined-login/)
 ## 🖥️ Preview
 
 ![Spotify Reimagined Preview](./preview.png)
