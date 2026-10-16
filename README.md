@@ -4,7 +4,7 @@
 
 ## ✨ Live Preview
 
-**Live Demo:** [Click Me](https://humblelyy.github.io/spotify-reimagined-login/)
+**Live Demo:** [Click Here](https://humblelyy.github.io/spotify-reimagined-login/)
 ## 🖥️ Preview
 
 ![Spotify Reimagined Preview](./preview.png)
@@ -72,7 +72,7 @@ Do not use this demo to collect real Spotify usernames, passwords, or authentica
 
 ---
 
-### Made with
+### Made by @humble
 
 
 
